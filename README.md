@@ -1,4 +1,4 @@
-#Minimal static site on s3 with terraform
+# Minimal static site on s3 with terraform
 
 With terraform one could automate 90% of the [Setting up a Static Website Using a Custom Domain Example](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html) from Amazon
 
