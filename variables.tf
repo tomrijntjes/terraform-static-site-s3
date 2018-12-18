@@ -1,7 +1,7 @@
 variable "primary_domain" {
-  description = "Primary domain"
+  type = "string"
 }
 
 variable "secondary_domain" {
-  description = "Secondary domain"
+  type = "string"
 }
